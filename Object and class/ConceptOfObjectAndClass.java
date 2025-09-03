@@ -12,20 +12,10 @@ public class ConceptOfObjectAndClass {
         p1.color = "Yellow";
         System.out.println(p1.color);
 
-        BankAccount myAcc = new BankAccount();
-        myAcc.username = "pallavi";
-        myAcc.setPassword ("gvyxbhshb");
-
     }
 }
 
-class BankAccount{
-    public String username;
-    private String password;
-    public void setPassword(String pwd){
-        password = pwd;
-    }
-}
+
 
 class Pen{
     String color;
