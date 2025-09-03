@@ -31,9 +31,9 @@ public class ConceptOfObjectAndClass {
 }*/
 
 
-// Get: 
-// Set:
-// this: 
+// Get: to return the value
+// Set: to modify the value
+// this: this keyword is used to refers to the current object
 
 
 class Pen{
